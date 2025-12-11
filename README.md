@@ -7,52 +7,52 @@ The goal is to identify key factors that drive churn and provide business insigh
 
 🔥 Project Objectives
 
-Clean and prepare customer data
+     Clean and prepare customer data
 
-Perform EDA (Exploratory Data Analysis)
+     Perform EDA (Exploratory Data Analysis)
 
-Visualize churn patterns
+     Visualize churn patterns
 
-Identify high-risk customer segments
+     Identify high-risk customer segments
 
-Provide actionable business insights
+     Provide actionable business insights
 
 📁 Dataset
 
-Source: Telco Customer Churn Dataset
+     Source: Telco Customer Churn Dataset
 
-Rows: 7043
+     Rows: 7043
 
-Columns: 21
+     Columns: 21
 
-Includes customer demographics, contract details, payment method, internet service, and churn flag.
+     Includes customer demographics, contract details, payment method, internet service, and churn flag.
 
 🛠 Tools Used
 
-Python
+         Python
 
-Pandas & NumPy
+         Pandas & NumPy
 
-Matplotlib & Seaborn
+         Matplotlib & Seaborn
 
-Jupyter Notebook
+         Jupyter Notebook
 
 📌 Key Analysis Steps
 ✔ 1. Data Cleaning
 
-Handled missing values in TotalCharges
+          Handled missing values in TotalCharges
 
-Converted categorical columns using LabelEncoder
+          Converted categorical columns using LabelEncoder
 
-Removed irrelevant columns like customerID
+          Removed irrelevant columns like customerID
 
 ✔ 2. Exploratory Data Analysis
 
-Churn vs Non-Churn distribution
+          Churn vs Non-Churn distribution
 
-Correlation heatmap
+          Correlation heatmap
 
-Boxplots for charges
+          Boxplots for charges
 
 Bar plots for contract type, payment method, internet service
 
@@ -100,14 +100,14 @@ Users paying through electronic check are less loyal.
 
 🏁 Conclusion
 
-This analysis helps business teams target:
+   This analysis helps business teams target:
 
-Customers with monthly contracts
+   Customers with monthly contracts
 
-High-billing customers
+   High-billing customers
 
-Fiber optic internet users
+   Fiber optic internet users
 
-Electronic check payment users
+   Electronic check payment users
 
-Targeted offers, discounts, or contract upgrades can reduce churn significantly.
+   Targeted offers, discounts, or contract upgrades can reduce churn significantly.
