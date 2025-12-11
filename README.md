@@ -40,19 +40,19 @@ Jupyter Notebook
 📌 Key Analysis Steps
 ✔ 1. Data Cleaning
 
-Handled missing values in TotalCharges
+          Handled missing values in TotalCharges
 
-Converted categorical columns using LabelEncoder
+          Converted categorical columns using LabelEncoder
 
-Removed irrelevant columns like customerID
+          Removed irrelevant columns like customerID
 
 ✔ 2. Exploratory Data Analysis
 
-Churn vs Non-Churn distribution
+          Churn vs Non-Churn distribution
 
-Correlation heatmap
+          Correlation heatmap
 
-Boxplots for charges
+          Boxplots for charges
 
 Bar plots for contract type, payment method, internet service
 
