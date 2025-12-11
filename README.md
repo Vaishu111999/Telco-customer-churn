@@ -99,7 +99,8 @@ Possible due to service issues or pricing.
 Users paying through electronic check are less loyal.
 
 🏁 Conclusion
-This analysis helps business teams target:
+
+   This analysis helps business teams target:
 
    Customers with monthly contracts
 
